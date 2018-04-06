@@ -8,6 +8,11 @@ import org.jpmc.test.message.Type1;
 import org.jpmc.test.message.Type2;
 import org.jpmc.test.message.Type3;
 
+/**
+ * 
+ * @author psikhakolli
+ *
+ */
 public class SalesProcess {
 
 	private static final int MAX_LOG_REPORT_COUNTER = 10;

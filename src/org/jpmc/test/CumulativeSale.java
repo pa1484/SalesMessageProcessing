@@ -60,5 +60,4 @@ public class CumulativeSale {
 	public void setTotalValue(double totalValue)	{
 		this.totalValue = totalValue;
 	}
-
 }

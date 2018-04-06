@@ -18,7 +18,7 @@ public class MessageLog {
 	//List object for storing messages recieved
 	private ArrayList<Message> msgs;
 	
-	/*
+	/**
 	 * constructor for initializing MessageLog object
 	 */
 	public MessageLog()	{
@@ -47,7 +47,7 @@ public class MessageLog {
 	 * formats price based on operation
 	 * @param price [double]
 	 * @param operation {@link Operation}
-	 * @return formmated string
+	 * @return formmated String String
 	 */
 	private String formatMessage(double price, Operation operation)	{
 		switch(operation)	{

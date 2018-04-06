@@ -11,7 +11,13 @@ public class Sale {
 	private int qty;
 	private double adjustedPrice;
 	
-	//constructor for initializing Sale info
+	//
+	/**
+	 * constructor for initializing Sale info 
+	 * @param productName String
+	 * @param price double
+	 * @param qty int
+	 */
 	public Sale(String productName, double price, int qty)	{
 		this.productName = productName;
 		this.price = price;
@@ -19,26 +25,43 @@ public class Sale {
 		this.adjustedPrice = price;
 	}
 	
-	//returns productName
+
+	/**
+	 * 
+	 * @return productName String
+	 */
 	public String getProductName()	{
 		return productName;
 	}
 	
-	//returns price
+	/**
+	 * 
+	 * @return price double
+	 */
 	public double getPrice()	{
 		return price;
 	}
-	//returns qty
+
+	/**
+	 * 
+	 * @return qty int
+	 */
 	public int getQty()	{
 		return qty;
 	}
 	
-	//returns adjustedPrice
+	/**
+	 * 
+	 * @return adjustedPrice
+	 */
 	public double getAdjustedPrice()	{
 		return adjustedPrice;
 	}
 	
-	//sets adjustedPrice
+	/**
+	 * 
+	 * @param adjustedPrice double
+	 */
 	public void setAdjustedPrice(double adjustedPrice)	{
 		this.adjustedPrice = adjustedPrice;
 	}
