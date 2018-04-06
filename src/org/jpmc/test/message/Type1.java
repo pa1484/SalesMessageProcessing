@@ -10,13 +10,20 @@ package org.jpmc.test.message;
 public class Type1 extends Message	{
 	
 	private double price;
-	//constructor for initializing Type1 Message object
+	/**
+	 * constructor for initializing Type1 Message object 
+	 * @param productName String
+	 * @param price double
+	 */
 	public Type1(String productName, double price)	{
 		super(productName);
 		this.price = price;
 	}
 	
-	//returns price
+	/**
+	 * 
+	 * @return price double
+	 */
 	public double getPrice()	{
 		return price;
 	}

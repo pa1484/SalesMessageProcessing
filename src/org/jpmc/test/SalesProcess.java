@@ -9,7 +9,7 @@ import org.jpmc.test.message.Type2;
 import org.jpmc.test.message.Type3;
 
 /**
- * 
+ * Processing sales messages and stores sales. 
  * @author psikhakolli
  *
  */

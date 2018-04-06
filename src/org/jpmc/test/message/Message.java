@@ -1,23 +1,29 @@
 package org.jpmc.test.message;
 
+/**
+ * 
+ * Parent object for all types of Message Objects
+ * @author psikhakolli
+ *
+ */
+
 public class Message {
-	
-	 /**
-	 * 
-	 * Parent object for all types of Message Objects
-	 * @author psikhakolli
-	 *
-	 */
 	
 	//name of product
 	private String productName;
 	
-	//constructor for building Message object
+	/**
+	 * constructor for creating Message object 
+	 * @param productName string
+	 */
 	protected Message(String productName)	{
 		this.productName = productName;
 	}
 	
-	//Returns productName
+	/**
+	 * Returns productName 
+	 * @return productName
+	 */
 	public String getProductName()	{
 		return productName;
 	}

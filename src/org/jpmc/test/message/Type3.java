@@ -14,19 +14,30 @@ public class Type3 extends Message{
 	private double price;
 	private Operation operation;
 	
-	//constructor for initializing Type3 Message object
+	/**
+	 * constructor for initializing Type3 Message object 
+	 * @param productName String
+	 * @param price price
+	 * @param operation {@link Operation}
+	 */
 	public Type3(String productName, double price, Operation operation)	{
 		super(productName);
 		this.price = price;
 		this.operation = operation;
 	}
 	
-	//returns price
+	/**
+	 * 
+	 * @return price double
+	 */
 	public double getPrice()	{
 		return price;
 	}
 	
-	//returns operation
+	/**
+	 * 
+	 * @return operation {@link Operation}
+	 */
 	public Operation getOperation()	{
 		return operation;
 	}
