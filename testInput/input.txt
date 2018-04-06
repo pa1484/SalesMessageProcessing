@@ -1,0 +1,90 @@
+apples at 10p
+20 sales of apples at 10p each
+Add 20p apples at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apples at 10p
+20 sales of bananas at 10p each
+bananas at 10p
+20 sales of cherries at 10p each
+cherries at 10p
+20 sales of oranges at 10p each
+oranges at 10p
+20 sales of pineapples at 10p each
+pineapples at 10p
+5 sales of strawberries at 5p each
+strawberries at 5p
+2 sales of grapes at 15p each
+grapes at 15p
+watermelons at 20p
+25 sales of watermelons at 20p each
+apples at 10p
+Add 2p pineapples
+Add 3p bananas
+Subtract 5p apples
+apples at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apples at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apples at 10p
+20 sales of bananas at 10p each
+bananas at 10p
+20 sales of cherries at 10p each
+cherries at 10p
+20 sales of oranges at 10p each
+oranges at 10p
+20 sales of pineapples at 10p each
+pineapples at 10p
+5 sales of strawberries at 5p each
+apples at 10p
+20 sales of apples at 10p each
+Multiply 20 strawberries
+apples at 10p
+20 sales of bananas at 10p each
+bananas at 10p
+Add 5p pineapples
+Subtract 5p cherries
+12 sales of grapes at 15p each
+20 sales of cherries at 10p each
+cherries at 10p
+20 sales of oranges at 10p each
+oranges at 10p
+20 sales of pineapples at 10p each
+pineapples at 10p
+5 sales of strawberries at 5p each
+apples at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apples at 10p
+20 sales of apples at 10p each
+Add 20p apples
+apples at 10p
+20 sales of bananas at 10p each
+bananas at 10p
+20 sales of cherries at 10p each
+cherries at 10p
+20 sales of oranges at 10p each
+oranges at 10p
+20 sales of pineapples at 10p each
+pineapples at 10p
+5 sales of strawberries at 5p each
+20 sales of apples at 10p each
+Add 20p apples
+apples at 10p
+20 sales of bananas at 10p each
+bananas at 10p
+20 sales of cherries at 10p each
+20 sales of apples at 10p each
+Add 20p apples
+apples at 10p
+20 sales of bananas at 10p each
+bananas at 10p
+20 sales of cherries at 10p each
+20 sales of apples at 10p each
+Add 20p apples
+apples at 10p
+20 sales of bananas at 10p each
+bananas at 10p
+20 sales of cherries at 10p each
